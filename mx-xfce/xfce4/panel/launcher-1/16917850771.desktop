@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Rofi Launcher
+Comment=
+Exec=/home/phil/.config/rofi/launchers/colorful/launcher.sh
+Icon=classicmenu-indicator-dark
+Path=
+Terminal=false
+StartupNotify=false
