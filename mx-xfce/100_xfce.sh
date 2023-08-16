@@ -19,6 +19,7 @@ cd xfce4
 cp -r * ~/.config/xfce4
 cd ..
 
+mkdir -p ~/.config/autostart
 cd autostart
 cp -r * ~/.config/autostart
 cd ..
