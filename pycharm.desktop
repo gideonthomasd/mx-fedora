@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pycharm
+Exec=/home/phil/Applications/PyCharm-v2021.1.2-x86_64.AppImage
+Icon=pycharm
+Type=Application
+Categories=GTK;System;TerminalEmulator;
