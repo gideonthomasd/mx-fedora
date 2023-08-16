@@ -1,0 +1,7 @@
+^sep()
+Lock,i3lock-fancy -p,system-lock-screen
+Exit,^checkout(exit),system-shutdown
+^tag(exit)
+Logout,pkill bspwm || pkill bspwm,system-log-out
+Reboot,sudo reboot,system-reboot
+Poweroff, sudo poweroff,system-shutdown

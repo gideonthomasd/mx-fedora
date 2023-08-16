@@ -1,0 +1,11 @@
+Terminal,xfce4-terminal,org.xfce.terminalemulator
+Browser,brave-browser,brave-browser
+File manager,pcmanfm,org.xfce.filemanager
+Steam, steam, steam
+Scid Chess, scid, scid
+Virtual Manager, virt-manager, virt-manager
+Pycharm, pycharm, pycharm
+Libre Writer, libreoffice --writer, libreoffice-writer
+Timeshift, su-to-root -X -c timeshift-gtk, timeshift
+Packages, su-to-root -X -c mx-packageinstaller, mx-packageinstaller
+^sep()
